@@ -3,15 +3,17 @@
 # Data Science
 **2020 Esri Developer Summit - Pre-Summit Hands-on Training Mar 8-9, 2020**
 
-Description
+This training requires prior knowledge of Python 3.  The class, taught by an experienced data scientist, teaches introductory data science skills and libraries, including NumPy and Pandas, as well as how to graphically explore and chart data.  As part of the training, students will learn how to define actionable analytic questions and (time permitting) will also learn how to handle missing data.
 
 ## Class Prerequisites
 
-Prereq
+All attendees must have substantial prior programming experience. Since Python is only briefly introduced, we highly recommend prior familiarity with Python.
 
 ## Technical Setup and Requirements
 
-Setup
+- PyCharm (Community Edition is fine)
+- Anaconda 3.6 or later
+- Related lab files that Accelebrate provides
 
 ## Class Outline
 Base Python
@@ -55,10 +57,10 @@ EDA with Pandas, matplotlib, and seaborn
   - Group-wise calculations using Pandas
   - Pivot Tables
   - Long to wide and back
-        - Pivot
-        - Stack
-        - Unstack
-        - Melt
+     - Pivot
+     - Stack
+     - Unstack
+     - Melt
 - Exploring data graphically
   - Pandas visualization
   - Histogram
@@ -74,19 +76,19 @@ Machine Learning with Scikit-learn
 - Machine learning approaches to multivariate statistics
   - Machine Learning Theory
   - Data pre-processing
-        - Missing Data
-        - Mummy Coding
-        - Standardization
-        - Training/Validation/Test data ideas
+     - Missing Data
+     - Mummy Coding
+     - Standardization
+     - Training/Validation/Test data ideas
   - Supervised Versus Unsupervised Learning
   - Unsupervised Learning: Clustering
-        - Clustering Algorithms
-        - Evaluating Cluster Performance
+     - Clustering Algorithms
+     - Evaluating Cluster Performance
   - Supervised Learning: Classification
-        - Logistic Regression
-        - LASSO
-        - Random Forest
-        - Ensemble Methods
-        - Feature Importance
-        - Scoring New Data Sets
-        - Cross Validation
+     - Logistic Regression
+     - LASSO
+     - Random Forest
+     - Ensemble Methods
+     - Feature Importance
+     - Scoring New Data Sets
+     - Cross Validation
