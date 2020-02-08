@@ -11,6 +11,8 @@ All attendees must have substantial prior programming experience. Since Python i
 
 ## Technical Setup and Requirements
 
+All downloads and installs must be done before class to ensure an on-time start.
+
 - PyCharm (Community Edition is fine)
 - Anaconda 3.6 or later
 - Related lab files that Accelebrate provides
