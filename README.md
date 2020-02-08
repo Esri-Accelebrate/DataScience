@@ -15,7 +15,7 @@ Setup
 
 ## Class Outline
 - Base Python
- - Brief Base Python Introduction
+  - Brief Base Python Introduction
      - String Literals and numeric objects
      - Reference assignment
      - Collections (lists, tuples, dicts)
@@ -26,13 +26,13 @@ Setup
      - Functions
      - Exception Handling
 - Numpy
- - Numpy: Matrix Language
-  - Introduction to the ndarray
-  - Numpy operations
-  - Broadcasting
-  - Missing data in Numpy (masked array)
-  - Numpy Structured arrays
-  - Random number generation 
+  - Numpy: Matrix Language
+     - Introduction to the ndarray
+     - Numpy operations
+     - Broadcasting
+     - Missing data in Numpy (masked array)
+     - Numpy Structured arrays
+     - Random number generation 
 - EDA with Pandas, matplotlib, and seaborn
  - Data Management with Pandas
   - Series versus dataframes
