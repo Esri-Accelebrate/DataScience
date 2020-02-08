@@ -15,16 +15,17 @@ Setup
 
 ## Class Outline
 Base Python
- - Brief Base Python Introduction
-    - String Literals and numeric objects
-    - Reference assignment
-    - Collections (lists, tuples, dicts)
-    - Python Classes
-    - Datetime classes in Python
-    - Memory Management in Python 
-    - Control Flow
-    - Functions
-    - Exception Handling
+- Brief Base Python Introduction
+  - String Literals and numeric objects
+   - Reference assignment
+   - Collections (lists, tuples, dicts)
+   - Python Classes
+   - Datetime classes in Python
+   - Memory Management in Python 
+   - Control Flow
+   - Functions
+   - Exception Handling
+
 Numpy
  - Numpy: Matrix Language
     - Introduction to the ndarray
@@ -33,6 +34,7 @@ Numpy
     - Missing data in Numpy (masked array)
     - Numpy Structured arrays
     - Random number generation 
+
 EDA with Pandas, matplotlib, and seaborn
  - Data Management with Pandas
     - Series versus dataframes
@@ -67,6 +69,7 @@ EDA with Pandas, matplotlib, and seaborn
      - Group-by plotting
      - Pandas plot formatting
      - Matplotlib and seaborn
+
 Machine Learning with Scikit-learn
  - Machine learning approaches to multivariate statistics
      - Machine Learning Theory
