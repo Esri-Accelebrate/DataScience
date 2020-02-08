@@ -40,8 +40,8 @@ EDA with Pandas, matplotlib, and seaborn
   - Series versus dataframes
   - Overview of data types in Pandas
   - Pandas IO tools
-        - Csv
-        - Excel
+     - Csv
+     - Excel
   - Subsetting Dataframes
   - Creating and deleting variables
   - Discretization of continuous data
