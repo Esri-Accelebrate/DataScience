@@ -13,9 +13,15 @@ All attendees must have substantial prior programming experience. Since Python i
 
 All downloads and installs must be done before class to ensure an on-time start.
 
-- PyCharm (Community Edition is fine)
-- Anaconda 3.6 or later
-- Related lab files that Accelebrate provides
+- A recent version of Windows, Mac OS X, or Linux, with the latest system updates and at least 4 GB of RAM.
+- **Anaconda** installed, from https://www.anaconda.com/download/ , which gives you a self-contained Python environment with some pre-installed libraries, an editor, etc.
+  - Please download and install the current **Python 3** version of Anaconda (as of this writing, the latest version is Anaconda 2019.10, which includes Python 3.7.4).
+  - Please use the default options during installation.
+  - This will typically install Python and the other Anaconda software in a directory such as “C:\Users\YourUserName\Anaconda3”.
+  - The Anaconda bundle includes Spyder IDE (useful for writing full, complex Python programs) and Jupyter Notebook (useful for running small pieces of Python code and seeing results right away).
+  - To verify the installation, confirm that you are able to launch the applications named **Spyder** and **Jupyter Notebook** on your computer.
+- **Lab files** for class – please download this zip file to each student computer, and unzip the contents to a convenient location such as the desktop.
+  - http://lib.accelebrate.com/202003_Esri/ESRI.zip
 
 ## Class Outline
 Base Python
