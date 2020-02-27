@@ -17,7 +17,7 @@ All downloads and installs must be done before class to ensure an on-time start.
 - **Anaconda** installed, from https://www.anaconda.com/download/ , which gives you a self-contained Python environment with some pre-installed libraries, an editor, etc.
   - Please download and install the current **Python 3** version of Anaconda (as of this writing, the latest version is Anaconda 2019.10, which includes Python 3.7.4).
   - Please use the default options during installation.
-  - This will typically install Python and the other Anaconda software in a directory such as “C:\Users\YourUserName\Anaconda3”.
+  - This will typically install Python and the other Anaconda software in a directory such as "C:\Users\YourUserName\Anaconda3".
   - The Anaconda bundle includes Spyder IDE (useful for writing full, complex Python programs) and Jupyter Notebook (useful for running small pieces of Python code and seeing results right away).
   - To verify the installation, confirm that you are able to launch the applications named **Spyder** and **Jupyter Notebook** on your computer.
 - **Lab files** for class – please download this zip file to each student computer, and unzip the contents to a convenient location such as the desktop.
