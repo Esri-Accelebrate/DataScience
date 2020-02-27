@@ -22,7 +22,7 @@ All downloads and installs must be done before class to ensure an on-time start.
   - To verify the installation, confirm that you are able to launch the applications named **Spyder** and **Jupyter Notebook** on your computer.
 - **Lab files** for class – please download this zip file to your computer and unzip the contents to a convenient location such as the desktop.
   - http://lib.accelebrate.com/202003_Esri/ESRI.zip
-- Please download the eBook linked in the Esri email (O'Reilly's Python Data Science Handbook).  This will be referenced during class in the materials you will receive.
+- Please download the eBook linked to in the Esri email you received (O'Reilly's Python Data Science Handbook).  This will be referenced during class in the materials you will receive.
 
 ## Class Outline
 Base Python
