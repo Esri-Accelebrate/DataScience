@@ -84,7 +84,6 @@ Machine Learning with Scikit-learn
 - Machine learning approaches to multivariate statistics
   - Machine Learning Theory
   - Data pre-processing
-     - Missing Data
      - Mummy Coding
      - Standardization
      - Training/Validation/Test data ideas
